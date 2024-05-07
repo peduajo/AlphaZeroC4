@@ -1,0 +1,13 @@
+**/__pycache__/
+*.py[cod]
+
+/runs/*
+!/runs/.gitkeep
+/models/*
+!/models/.gitkeep
+/C_project/models/*
+!/C_project/models/.gitkeep
+/C_project/data/*
+!/C_project/data/.gitkeep
+/C_project/build/*
+!/C_project/build/.gitkeep
