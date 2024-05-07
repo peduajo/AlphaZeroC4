@@ -11,3 +11,4 @@
 !/C_project/data/.gitkeep
 /C_project/build/*
 !/C_project/build/.gitkeep
+/C_project/deps/*
